@@ -1,0 +1,83 @@
+# Copyright (C) 2012 MoliBox
+# This file is distributed under the same license as the MoliBox package.
+msgid ""
+msgstr ""
+"Project-Id-Version: MoliBox 0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/molibox\n"
+"POT-Creation-Date: 2012-08-16 10:59:03+00:00\n"
+"PO-Revision-Date: 2012-08-16 13:00+0100\n"
+"Last-Translator: Flo Edelmann <florian-edelmann@online.de>\n"
+"Language-Team: Flo Edelmann <florian-edelmann@online.de>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_n:1,2;_e;_x:2c,1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: molibox.php:55
+msgid "Settings"
+msgstr "Einstellungen"
+
+#. #-#-#-#-#  molibox.pot (MoliBox 0.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: settings.php:4
+msgid "MoliBox"
+msgstr "MoliBox"
+
+#: settings.php:6
+msgid "Enable always"
+msgstr "Immer aktivieren"
+
+#: settings.php:9
+msgid "Overlay color"
+msgstr "Overlay-Farbe"
+
+#: settings.php:12
+msgid "<code>rel</code> types"
+msgstr "<code>rel</code>-Typen"
+
+#: settings.php:15
+msgid "Overlay opacity"
+msgstr "Overlay-Opazität"
+
+#: settings.php:20
+msgid "The MoliBox will open on image links and show the linked image enlarged. On mobile devices, there are also intuitive swipe gestures."
+msgstr "Die MoliBox wird sich bei Bilder-Links öffnen und das verlinkte Bild vergrößert anzeigen. Auf mobilen Geräten gibt es außerdem intuitive Swipe-Gesten."
+
+#: settings.php:24
+msgid "Let all links linking to an image open a MoliBox. Else, they must have a <code>rel</code> attribute (specified in the next field)."
+msgstr "Lass alle Links, die Bilder verlinken, eine MoliBox öffnen. Ansonsten müssen sie ein <code>rel</code>-Attribut besitzen (im nächsten Feld festgelegt)."
+
+#: settings.php:28
+msgid "If MoliBox is not always enabled, links must have a <code>rel</code> attribute containing at least one of these values (comma separated) to open a MoliBox."
+msgstr "Wenn MoliBox nicht immer aktiviert ist, müssen Links ein <code>rel</code>-Attribut mit einem der angegebenen Werte (kommagetrennt) besitzen, um eine MoliBox zu öffnen."
+
+#: settings.php:35
+msgid "The color the screen turns to when opening MoliBox. Examples (all result in the same color): %1$s, %2$s, %3$s, %4$s, %5$s"
+msgstr "Die Farbe, mit der sich der Bildschirm beim Öffnen einer MoliBox färbt. Beispiele (alle stehen für die gleiche Farbe): %1$s, %2$s, %3$s, %4$s, %5$s"
+
+#: settings.php:230
+msgid "0 means fully transparent, 1 means fully opaque."
+msgstr "0 bedeutet völlig transparent, 1 bedeutet völlig undurchsichtig."
+
+#. Description of the plugin/theme
+msgid "Yet another WordPress lightbox plugin - but also optimized for mobile devices."
+msgstr "Schon wieder ein WordPress-Lightbox-Plugin - aber diesmal auch für mobile Geräte optimiert."
+
+#. Author of the plugin/theme
+msgid "Flo Edelmann"
+msgstr "Flo Edelmann"
+
+#. Author URI of the plugin/theme
+msgid "http://www.duran2.de/"
+msgstr "http://www.duran2.de/"
+
+#~ msgid "The color the screen turns to when opening MoliBox."
+#~ msgstr ""
+#~ "Die Farbe, in die sich der Bildschirm beim Öffnen einer MoliBox färbt."
